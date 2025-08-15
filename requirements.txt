@@ -4,14 +4,3 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-plotly
-requests
-beautifulsoup4
-scipy
-tensorflow
-keras
-torch
-transformers
-nltk
-spacy
-gensim                
